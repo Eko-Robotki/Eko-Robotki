@@ -62,7 +62,7 @@ a:hover {
 }
 
 img{
-    width:27%;
+    width:30%;
     height:40%;
 }
 
@@ -70,4 +70,5 @@ img{
     position: fixed;
     top: 0;
     width: 100%;
+
 }
