@@ -62,10 +62,10 @@ a:hover {
 }
 
 img{
-    min-width: 2% ;
-    min-height: 3%;
-    max-height: 4% ;
-    max-width: 3%;
+    min-width: 30% ;
+    min-height: 45%;
+    max-height: 45% ;
+    max-width: 30%;
 }
 
 #header{
@@ -74,6 +74,7 @@ img{
     width: 100%;
 
 }
+
 
 
 
