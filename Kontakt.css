@@ -68,8 +68,11 @@ a:hover {
 }
 
 img{
-    width: 1%;
-    height: 2%;
+    min-width: 3% ;
+    min-height: 4%;
+    max-height: 5% ;
+    max-width: 4%;
     border-radius: 5px;
     opacity: 0.6;
+
 }
