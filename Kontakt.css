@@ -69,12 +69,13 @@ a:hover {
 
 img{
     min-width: 2% ;
-    min-height: 3%;
-    max-height: 3% ;
+    min-height: 2%;
+    max-height: 2% ;
     max-width: 2%;
     border-radius: 5px;
     opacity: 0.6;
 
 }
+
 
 
