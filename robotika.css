@@ -62,12 +62,13 @@ a:hover {
 }
 
 img{
-    width:25%;
-    height:45%;
+    width:auto;
+    height:auto;
 }
 
 #header{
     position: fixed;
     top: 0;
     width: 100%;
+
 }
